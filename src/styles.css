@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  background-color: rgb(247, 242, 243);
+  color: red;
+}
